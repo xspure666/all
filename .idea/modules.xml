@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../car-email/.idea/car-email.iml" filepath="$PROJECT_DIR$/../car-email/.idea/car-email.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/多进程.iml" filepath="$PROJECT_DIR$/.idea/多进程.iml" />
     </modules>
   </component>
